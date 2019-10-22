@@ -1,0 +1,2 @@
+include ':admin', ':client', ':vendor', ':comman'
+rootProject.name='MultipleModule'
